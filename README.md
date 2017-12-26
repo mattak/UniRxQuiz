@@ -17,7 +17,7 @@ All QuizTest files have corresponding AnswerTest files.
 
 Basics
 
-1. Cold Observable: [Quiz](Assets/Editor/ColdObservable/QuizTest.cs) / [Answer](Assets/Editor/ColdObservable/QuizTest.cs)
+1. Cold Observable: [Quiz](Assets/Editor/ColdObservable/QuizTest.cs) / [Answer](Assets/Editor/ColdObservable/AnswerTest.cs)
 2. Hot Observable: [Quiz](Assets/Editor/HotObservable/QuizTest.cs) / [Answer](Assets/Editor/HotObservable/AnswerTest.cs)
 3. Operator: [Quiz](Assets/Editor/Operator/QuizTest.cs) / [Answer](Assets/Editor/Operator/AnswerTest.cs)
 3. Combinator: [Quiz](Assets/Editor/Combinator/QuizTest.cs) / [Answer](Assets/Editor/Combinator/AnswerTest.cs)
